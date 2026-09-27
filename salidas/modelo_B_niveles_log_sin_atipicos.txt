@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           ln_ev_ebitda   R-squared:                       0.311
+Model:                            OLS   Adj. R-squared:                  0.310
+Method:                 Least Squares   F-statistic:                     38.47
+Date:                Sat, 26 Sep 2026   Prob (F-statistic):           2.49e-24
+Time:                        13:38:39   Log-Likelihood:                 374.44
+No. Observations:                2666   AIC:                            -740.9
+Df Residuals:                    2662   BIC:                            -717.3
+Df Model:                           3                                         
+Covariance Type:                  HAC                                         
+==========================================================================================
+                             coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+const                      2.6061      0.265      9.828      0.000       2.086       3.126
+ln_precio_cobre_usd_lb    -0.2800      0.084     -3.347      0.001      -0.444      -0.116
+ln_precio_plata_usd_oz     0.6556      0.066      9.884      0.000       0.526       0.786
+ln_tipo_cambio_pen_usd    -1.4637      0.244     -6.000      0.000      -1.942      -0.986
+==============================================================================
+Omnibus:                       95.408   Durbin-Watson:                   0.012
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               46.700
+Skew:                           0.107   Prob(JB):                     7.23e-11
+Kurtosis:                       2.388   Cond. No.                         113.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 8 lags and without small sample correction

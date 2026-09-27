@@ -1,0 +1,5 @@
+﻿,ln_ev_ebitda,ln_precio_cobre_usd_lb,ln_precio_plata_usd_oz,ln_tipo_cambio_pen_usd
+ln_ev_ebitda,1.0,0.065,0.322,-0.189
+ln_precio_cobre_usd_lb,0.065,1.0,0.821,0.709
+ln_precio_plata_usd_oz,0.322,0.821,1.0,0.546
+ln_tipo_cambio_pen_usd,-0.189,0.709,0.546,1.0

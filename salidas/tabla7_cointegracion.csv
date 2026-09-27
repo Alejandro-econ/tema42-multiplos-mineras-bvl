@@ -1,0 +1,2 @@
+﻿prueba,estadistico,p_valor,valor_critico_1%,valor_critico_5%,valor_critico_10%,conclusion_5%
+"Engle-Granger (ln EV/EBITDA sobre ln cobre, ln plata, ln tipo de cambio)",-2.7138,0.565,-4.6501,-4.1002,-3.8133,No hay cointegración (Modelo A podría ser espurio)

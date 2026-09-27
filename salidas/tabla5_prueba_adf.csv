@@ -1,0 +1,9 @@
+﻿variable,forma,estadistico_ADF,p_valor,conclusion_5%
+ln_ev_ebitda,niveles,-2.227,0.1966,No estacionaria
+ln_ev_ebitda,primeras diferencias,-18.3859,0.0,Estacionaria
+ln_precio_cobre_usd_lb,niveles,-0.3653,0.9157,No estacionaria
+ln_precio_cobre_usd_lb,primeras diferencias,-54.4351,0.0,Estacionaria
+ln_precio_plata_usd_oz,niveles,1.022,0.9945,No estacionaria
+ln_precio_plata_usd_oz,primeras diferencias,-25.6314,0.0,Estacionaria
+ln_tipo_cambio_pen_usd,niveles,-2.2779,0.1792,No estacionaria
+ln_tipo_cambio_pen_usd,primeras diferencias,-35.4491,0.0,Estacionaria

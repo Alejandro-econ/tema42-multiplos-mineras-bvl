@@ -1,0 +1,13 @@
+﻿modelo,variable,coeficiente,error_estandar_HAC,p_valor,n_obs,r2,rezagos_newey_west
+A_niveles_log,const,2.6061,0.2652,0.0,2666,0.3107,8
+A_niveles_log,ln_precio_cobre_usd_lb,-0.28,0.0836,0.0008,2666,0.3107,8
+A_niveles_log,ln_precio_plata_usd_oz,0.6556,0.0663,0.0,2666,0.3107,8
+A_niveles_log,ln_tipo_cambio_pen_usd,-1.4637,0.2439,0.0,2666,0.3107,8
+B_niveles_log_sin_atipicos,const,2.6061,0.2652,0.0,2666,0.3107,8
+B_niveles_log_sin_atipicos,ln_precio_cobre_usd_lb,-0.28,0.0836,0.0008,2666,0.3107,8
+B_niveles_log_sin_atipicos,ln_precio_plata_usd_oz,0.6556,0.0663,0.0,2666,0.3107,8
+B_niveles_log_sin_atipicos,ln_tipo_cambio_pen_usd,-1.4637,0.2439,0.0,2666,0.3107,8
+C_primeras_diferencias,const,-0.0,0.0003,0.9774,2665,0.2317,8
+C_primeras_diferencias,d_ln_precio_cobre_usd_lb,0.5499,0.0382,0.0,2665,0.2317,8
+C_primeras_diferencias,d_ln_precio_plata_usd_oz,0.2543,0.0329,0.0,2665,0.2317,8
+C_primeras_diferencias,d_ln_tipo_cambio_pen_usd,-1.0577,0.2144,0.0,2665,0.2317,8

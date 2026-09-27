@@ -1,0 +1,119 @@
+edicion,multiplo_archivo,archivo,url,hoja,grupo,columna,valor
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,Variable definitions:,Industry Name,Metals & Mining
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Number of firms,301
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBITDAR&D,10.873888628718912
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBITDA,11.413992914507238
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBIT,20.242116632863876
+2015,ev_ebitda,2015_vebitdaemerg15.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBIT (1-t),27.471106942097983
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,Variable definitions:,Industry Name,Metals & Mining
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Number of firms,290
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBITDAR&D,12.569393462351607
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBITDA,13.072522323420547
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBIT,29.427826052464603
+2016,ev_ebitda,2016_vebitdaemerg16.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls,Sheet1,http://www.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/EBIT (1-t),42.95348832001252
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,,Industry Name,Metals & Mining
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,,Number of firms,312
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,Only positive EBITDA firms,EV/EBITDAR&D,11.869169868971857
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,Only positive EBITDA firms,EV/EBITDA,12.296204606456152
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,Only positive EBITDA firms,EV/EBIT,18.364234395231968
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,Only positive EBITDA firms,EV/EBIT (1-t),24.862151251839954
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,All firms,EV/EBITDAR&D2,15.207571217661533
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,All firms,EV/EBITDA3,15.903969235196298
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,All firms,EV/EBIT4,18.661754207274058
+2017,ev_ebitda,2017_vebitdaemerg17.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls,Sheet1,All firms,EV/EBIT (1-t)5,25.26494411585012
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,,Induistry Name,Metals & Mining
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,,Number of firms,311
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,Only positive EBITDA firms,EV/EBITDAR&D,7.85
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,Only positive EBITDA firms,EV/EBITDA,8.2
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,Only positive EBITDA firms,EV/EBIT,12.55
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,Only positive EBITDA firms,EV/EBIT (1-t),17.75
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,All firms,EV/EBITDAR&D2,8.07
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,All firms,EV/EBITDA3,8.42
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,All firms,EV/EBIT4,12.89
+2018,ev_ebitda,2018_vebitdaemerg18.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls,Sheet1,All firms,EV/EBIT (1-t)5,18.24
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,,Industry Name,Metals & Mining
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,,Number of firms,294
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,Only positive EBITDA firms,EV/EBITDAR&D,9.781355058821577
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,Only positive EBITDA firms,EV/EBITDA,10.374043229088104
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,Only positive EBITDA firms,EV/EBIT,18.45849052492331
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,Only positive EBITDA firms,EV/EBIT (1-t),24.79286908231781
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,All firms,EV/EBITDAR&D,9.136628686085889
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,All firms,EV/EBITDA,9.628497747961319
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,All firms,EV/EBIT,19.282811983003285
+2019,ev_ebitda,2019_vebitdaemerg19.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls,Sheet1,All firms,EV/EBIT (1-t),25.900071968942104
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,,Industry Name,Metals & Mining
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,,Number of firms,315
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,11.543726950323581
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,12.380257743895013
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,20.788362469430492
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),27.4584741816114
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,All firms,EV/EBITDAR&D,11.388399954506534
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,All firms,EV/EBITDA,12.18207546683881
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,All firms,EV/EBIT,21.270000329965498
+2020,ev_ebitda,2020_vebitdaemerg20.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls,Industry Averages,All firms,EV/EBIT (1-t),28.094649386745264
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,,Industry Name,Metals & Mining
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,,Number of firms,325
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,8.49553473198753
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,9.02519032623335
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,12.037014632835993
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),15.809546021740696
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,All firms,EV/EBITDAR&D,13.068469297030205
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,All firms,EV/EBITDA,14.343647723433152
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,All firms,EV/EBIT,12.223023279830327
+2021,ev_ebitda,2021_vebitdaemerg21.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls,Industry Averages,All firms,EV/EBIT (1-t),16.05385180309919
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,,Industry Name,Metals & Mining
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,,Number of firms,326
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,6.456318785628118
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,6.8846525948068145
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,8.876678762940928
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),11.449626437156882
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,All firms,EV/EBITDAR&D,6.597291490871179
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,All firms,EV/EBITDA,7.034059510479956
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,All firms,EV/EBIT,9.088385551752292
+2022,ev_ebitda,2022_vebitdaemerg22.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls,Industry Averages,All firms,EV/EBIT (1-t),11.722697448380128
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,,Industry Name,Metals & Mining
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,,Number of firms,331
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,9.32863999480402
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,10.275540464856421
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,15.571933125282825
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),20.658713177009293
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,All firms,EV/EBITDAR&D,7.795798826531064
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,All firms,EV/EBITDA,8.424792849494676
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,All firms,EV/EBIT,16.061910105139116
+2023,ev_ebitda,2023_vebitdaemerg23.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls,Industry Averages,All firms,EV/EBIT (1-t),21.308747685168957
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,,Industry Name,Metals & Mining
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,,Number of firms,342
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,7.939723129820995
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,8.392121633800532
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,11.743415359253719
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),15.513752212093626
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,All firms,EV/EBITDAR&D,9.809610792814832
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,All firms,EV/EBITDA,10.494235600288746
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,All firms,EV/EBIT,11.989150417120936
+2024,ev_ebitda,2024_vebitdaemerg24.xls,https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls,Industry Averages,All firms,EV/EBIT (1-t),15.838382882214006
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,,Industry Name,Metals & Mining
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,,Number of firms,358
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDAR&D,11.154520287056114
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,Only positive EBITDA firms,EV/EBITDA,12.100967377957275
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT,16.171639797139722
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,Only positive EBITDA firms,EV/EBIT (1-t),21.059833200036856
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,All firms,EV/EBITDAR&D,12.525226052941866
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,All firms,EV/EBITDA,13.691918682728884
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,All firms,EV/EBIT,16.667591260948914
+2026,ev_ebitda,2026_vebitdaemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls,Industry Averages,All firms,EV/EBIT (1-t),21.705695662604384
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,Variable definitions:,Industry Name,Metals & Mining
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Number of firms,358
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,PBV,2.720683251354465
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,ROE,0.13124289253584867
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,EV/ Invested Capital,2.146853317050927
+2026,pbv,2026_pbvemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,ROIC,0.12644414658533148
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,Variable definitions:,Industry Name,Metals & Mining
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Number of firms,358
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,% of Money Losing firms (Trailing),0.2849162011173184
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Current PE,131.81282529518083
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Trailing PE,77.17729853514841
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Forward PE,39.82196434269824
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Aggregate Mkt Cap/ Net Income (all firms),26.984844330086275
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Aggregate Mkt Cap/ Trailing Net Income (only money making firms),22.147897535956346
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,Expected growth - next 5 years,0.2776666666666666
+2026,pe,2026_peemerg.xls,https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls,Industry Averages,https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/variable.htm,PEG Ratio,0.7976433686418853

@@ -1,0 +1,111 @@
+[2026-09-26 12:08:28] 01_extraccion_api | INICIO | FECHA_INICIO=2015-01-01 FECHA_CORTE=2025-12-31
+[2026-09-26 12:08:30] 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04701XD/json/2015-01-01/2025-12-31 -> HTTP 200
+[2026-09-26 12:08:30] 01_extraccion_api | BCRP PD04701XD (Cotizaciones internacionales - Cobre (Londres, cUS$ por libras)): 2870 filas
+[2026-09-26 12:08:32] 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04702XD/json/2015-01-01/2025-12-31 -> HTTP 200
+[2026-09-26 12:08:32] 01_extraccion_api | BCRP PD04702XD (Cotizaciones internacionales - Plata (H.Harman, US$ por onzas troy)): 2870 filas
+[2026-09-26 12:08:35] 01_extraccion_api | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/api/PD04638PD/json/2015-01-01/2025-12-31 -> HTTP 200
+[2026-09-26 12:08:35] 01_extraccion_api | BCRP PD04638PD (Tipo de cambio - TC Interbancario (S/ por US$) - Venta): 2870 filas
+[2026-09-26 12:08:36] 01_extraccion_api | Guardado datos_crudos_bcrp_2024200531K.csv (8610 filas)
+[2026-09-26 12:08:37] 01_extraccion_api | Yahoo Finance SCCO: 2766 filas (HTTP n/d: la librería no lo expone) -> datos_crudos_yahoo_2024200531K.csv
+[2026-09-26 12:08:38] 01_extraccion_api | GET https://data.sec.gov/api/xbrl/companyfacts/CIK0001001838.json -> HTTP 200
+[2026-09-26 12:08:38] 01_extraccion_api | SEC: etiqueta no disponible us-gaap:DepreciationAmortizationAndAccretionNet
+[2026-09-26 12:08:38] 01_extraccion_api | SEC SOUTHERN COPPER CORP/: 1629 registros -> datos_crudos_sec_2024200531K.csv
+[2026-09-26 12:08:38] 01_extraccion_api | FIN 01_extraccion_api
+[2026-09-26 12:08:39] 02_scraping_web | INICIO 02_scraping_web
+[2026-09-26 12:08:40] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls -> HTTP 200
+[2026-09-26 12:08:40] 02_scraping_web | 2015_vebitdaemerg15.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:42] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls -> HTTP 200
+[2026-09-26 12:08:42] 02_scraping_web | 2016_vebitdaemerg16.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:43] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls -> HTTP 200
+[2026-09-26 12:08:43] 02_scraping_web | 2017_vebitdaemerg17.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:45] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls -> HTTP 200
+[2026-09-26 12:08:45] 02_scraping_web | No se encontró 'Metals & Mining' en 2018_vebitdaemerg18.xls
+[2026-09-26 12:08:45] 02_scraping_web | 2018_vebitdaemerg18.xls: 0 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:46] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls -> HTTP 200
+[2026-09-26 12:08:46] 02_scraping_web | 2019_vebitdaemerg19.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:48] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls -> HTTP 200
+[2026-09-26 12:08:48] 02_scraping_web | 2020_vebitdaemerg20.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:49] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls -> HTTP 200
+[2026-09-26 12:08:49] 02_scraping_web | 2021_vebitdaemerg21.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:51] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls -> HTTP 200
+[2026-09-26 12:08:51] 02_scraping_web | 2022_vebitdaemerg22.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:52] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls -> HTTP 200
+[2026-09-26 12:08:52] 02_scraping_web | 2023_vebitdaemerg23.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:54] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls -> HTTP 200
+[2026-09-26 12:08:54] 02_scraping_web | 2024_vebitdaemerg24.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:55] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg25.xls -> HTTP 404
+[2026-09-26 12:08:55] 02_scraping_web | Archivo no disponible (se registra y se continúa): https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg25.xls
+[2026-09-26 12:08:57] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls -> HTTP 200
+[2026-09-26 12:08:57] 02_scraping_web | 2026_vebitdaemerg.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:08:58] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls -> HTTP 200
+[2026-09-26 12:08:58] 02_scraping_web | 2026_pbvemerg.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:09:00] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls -> HTTP 200
+[2026-09-26 12:09:00] 02_scraping_web | 2026_peemerg.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 12:09:01] 02_scraping_web | Guardado datos_crudos_damodaran_2024200531K.csv (108 filas)
+[2026-09-26 12:09:01] 02_scraping_web | FIN 02_scraping_web
+[2026-09-26 12:09:02] 03_limpieza_datos | INICIO 03_limpieza_datos
+[2026-09-26 12:09:02] 03_limpieza_datos | Yahoo: 5 eventos de split detectados
+[2026-09-26 12:09:02] 03_limpieza_datos | BCRP: 136 valores 'n.d.' convertidos a faltantes
+[2026-09-26 12:09:02] 03_limpieza_datos | Unión Yahoo+BCRP: 2764 días comunes; 98 eliminados por faltantes
+[2026-09-26 12:09:02] 03_limpieza_datos | Etiqueta DepreciationAmortizationAndAccretionNet sin datos; se usa la siguiente disponible
+[2026-09-26 12:09:02] 03_limpieza_datos | Damodaran: 9 ediciones históricas; edición vigente = {'edicion': 'Enero 2026 (datos al cierre de 2025)', 'industria': 'Metals & Mining - Emerging Markets', 'pe_sector': np.float64(77.17729853514841), 'pb_sector': np.float64(2.720683251354465), 'ev_ebitda_sector': np.float64(12.100967377957277)}
+[2026-09-26 12:09:02] 03_limpieza_datos | pe: 0 atípicos marcados; 0 faltantes
+[2026-09-26 12:09:02] 03_limpieza_datos | pb: 0 atípicos marcados; 0 faltantes
+[2026-09-26 12:09:02] 03_limpieza_datos | ev_ebitda: 0 atípicos marcados; 0 faltantes
+[2026-09-26 12:09:02] 03_limpieza_datos | Guardado datos_procesados_2024200531K.csv: 2666 filas x 23 columnas | SHA-256 9a41d21a98f5febca4773a5826b760bb7001ec9680cf67c61d509f6af834597c
+[2026-09-26 12:09:02] 03_limpieza_datos | FIN 03_limpieza_datos
+[2026-09-26 12:09:06] 04_analisis | INICIO 04_analisis
+[2026-09-26 12:09:07] 04_analisis | Modelo A_niveles_log: n=2666, R2=0.311
+[2026-09-26 12:09:07] 04_analisis | Modelo B_niveles_log_sin_atipicos: n=2666, R2=0.311
+[2026-09-26 12:09:07] 04_analisis | Modelo C_primeras_diferencias: n=2665, R2=0.232
+[2026-09-26 12:09:08] 04_analisis | Tablas 0-6 y figuras 1-3 guardadas en /salidas
+[2026-09-26 12:09:08] 04_analisis | FIN 04_analisis
+[2026-09-26 13:34:22] 02_scraping_web | INICIO 02_scraping_web
+[2026-09-26 13:34:22] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg15.xls -> HTTP 200
+[2026-09-26 13:34:22] 02_scraping_web | 2015_vebitdaemerg15.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:24] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg16.xls -> HTTP 200
+[2026-09-26 13:34:24] 02_scraping_web | 2016_vebitdaemerg16.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:26] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg17.xls -> HTTP 200
+[2026-09-26 13:34:26] 02_scraping_web | 2017_vebitdaemerg17.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:27] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg18.xls -> HTTP 200
+[2026-09-26 13:34:27] 02_scraping_web | 2018_vebitdaemerg18.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:29] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg19.xls -> HTTP 200
+[2026-09-26 13:34:29] 02_scraping_web | 2019_vebitdaemerg19.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:30] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg20.xls -> HTTP 200
+[2026-09-26 13:34:30] 02_scraping_web | 2020_vebitdaemerg20.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:32] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg21.xls -> HTTP 200
+[2026-09-26 13:34:32] 02_scraping_web | 2021_vebitdaemerg21.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:33] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg22.xls -> HTTP 200
+[2026-09-26 13:34:33] 02_scraping_web | 2022_vebitdaemerg22.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:35] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg23.xls -> HTTP 200
+[2026-09-26 13:34:35] 02_scraping_web | 2023_vebitdaemerg23.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:36] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg24.xls -> HTTP 200
+[2026-09-26 13:34:36] 02_scraping_web | 2024_vebitdaemerg24.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:37] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg25.xls -> HTTP 404
+[2026-09-26 13:34:37] 02_scraping_web | Archivo no disponible (se registra y se continúa): https://pages.stern.nyu.edu/~adamodar/pc/archives/vebitdaemerg25.xls
+[2026-09-26 13:34:39] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/vebitdaemerg.xls -> HTTP 200
+[2026-09-26 13:34:39] 02_scraping_web | 2026_vebitdaemerg.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:40] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/pbvemerg.xls -> HTTP 200
+[2026-09-26 13:34:40] 02_scraping_web | 2026_pbvemerg.xls: 6 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:42] 02_scraping_web | GET https://pages.stern.nyu.edu/~adamodar/pc/datasets/peemerg.xls -> HTTP 200
+[2026-09-26 13:34:42] 02_scraping_web | 2026_peemerg.xls: 10 columnas extraídas de 'Metals & Mining'
+[2026-09-26 13:34:43] 02_scraping_web | Guardado datos_crudos_damodaran_2024200531K.csv (118 filas)
+[2026-09-26 13:34:43] 02_scraping_web | FIN 02_scraping_web
+[2026-09-26 13:38:32] 03_limpieza_datos | INICIO 03_limpieza_datos
+[2026-09-26 13:38:32] 03_limpieza_datos | Yahoo: 5 eventos de split detectados
+[2026-09-26 13:38:32] 03_limpieza_datos | BCRP: 136 valores 'n.d.' convertidos a faltantes
+[2026-09-26 13:38:32] 03_limpieza_datos | Unión Yahoo+BCRP: 2764 días comunes; 98 eliminados por faltantes
+[2026-09-26 13:38:32] 03_limpieza_datos | Etiqueta DepreciationAmortizationAndAccretionNet sin datos; se usa la siguiente disponible
+[2026-09-26 13:38:32] 03_limpieza_datos | Damodaran: 10 ediciones históricas; edición vigente = {'edicion': 'Enero 2026 (datos al cierre de 2025)', 'industria': 'Metals & Mining - Emerging Markets', 'pe_sector': np.float64(26.984844330086275), 'pb_sector': np.float64(2.720683251354465), 'ev_ebitda_sector': np.float64(12.100967377957277)}
+[2026-09-26 13:38:32] 03_limpieza_datos | pe: 0 atípicos marcados; 0 faltantes
+[2026-09-26 13:38:32] 03_limpieza_datos | pb: 0 atípicos marcados; 0 faltantes
+[2026-09-26 13:38:32] 03_limpieza_datos | ev_ebitda: 0 atípicos marcados; 0 faltantes
+[2026-09-26 13:38:32] 03_limpieza_datos | Guardado datos_procesados_2024200531K.csv: 2666 filas x 23 columnas | SHA-256 45c559e713655211fabcdbe241458dd1cd5c165f17b3d37f714bd3e349e978fa
+[2026-09-26 13:38:32] 03_limpieza_datos | FIN 03_limpieza_datos
+[2026-09-26 13:38:38] 04_analisis | INICIO 04_analisis
+[2026-09-26 13:38:39] 04_analisis | Cointegración Engle-Granger: estadístico=-2.714, p-valor=0.5650
+[2026-09-26 13:38:39] 04_analisis | Modelo A_niveles_log: n=2666, R2=0.311
+[2026-09-26 13:38:39] 04_analisis | Modelo B_niveles_log_sin_atipicos: n=2666, R2=0.311
+[2026-09-26 13:38:39] 04_analisis | Modelo C_primeras_diferencias: n=2665, R2=0.232
+[2026-09-26 13:38:40] 04_analisis | Tablas 0-7 y figuras 1-3 guardadas en /salidas
+[2026-09-26 13:38:40] 04_analisis | FIN 04_analisis
