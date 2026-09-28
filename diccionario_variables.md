@@ -1,7 +1,7 @@
 # Diccionario de variables — datos_procesados_2024200531K.csv
 
 **Autor:** Alejandro Soto Antezana · **Código:** 2024200531K · **Tema 42:** Múltiplos de valoración de las mineras listadas en la BVL: P/E, P/B y EV/EBITDA
-**Unidad de observación:** día hábil común a la Bolsa de Nueva York y al BCRP · **Periodo:** 02/01/2015 – 31/12/2025 · **Empresa:** Southern Copper Corporation (SCCO), emisor listado en la BVL.
+**Unidad de observación:** día hábil común a la Bolsa de Nueva York y al BCRP · **Periodo:** 05/01/2015 – 31/12/2025 (primer y último día con datos) · **Empresa:** Southern Copper Corporation (SCCO), emisor listado en la BVL.
 
 **Rol en el modelo:** Y = variable endógena (la que se explica); X = variable exógena (la que explica).
 

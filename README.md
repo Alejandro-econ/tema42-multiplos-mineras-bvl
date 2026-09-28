@@ -8,8 +8,8 @@
 | Universidad | Universidad Nacional del Centro del Perú, Facultad de Economía |
 | Tema del temario | N.º 42 — Múltiplos de valoración de las mineras listadas en la BVL: P/E, P/B y EV/EBITDA |
 | Empresa analizada | Southern Copper Corporation (SCCO), emisor listado en la Bolsa de Valores de Lima |
-| Periodo (parámetros congelados) | FECHA_INICIO = 2015-01-01 · FECHA_CORTE = 2025-12-31 |
-| Repositorio GitHub | COMPLETAR: https://github.com/USUARIO/NOMBRE-DEL-REPOSITORIO |
+| Periodo (parámetros congelados) | FECHA_INICIO = 2015-01-01 · FECHA_CORTE = 2025-12-31 (primer día con datos: 05/01/2015) |
+| Repositorio GitHub | https://github.com/Alejandro-econ/tema42-multiplos-mineras-bvl |
 
 ## Pregunta de investigación
 
@@ -63,7 +63,7 @@ python codigo/04_analisis.py
 
 - Las fechas de consulta son constantes (FECHA_INICIO y FECHA_CORTE); no se usan fechas dinámicas.
 - Los datos crudos no se editan. Toda transformación está en 03_limpieza_datos.py.
-- La edición de enero de 2025 del archivo de Damodaran no está publicada en su archivo histórico (respuesta HTTP 404 al 26/09/2026); para 2025 se usa la última edición disponible (enero de 2024). Queda registrado en log_ejecucion.txt.
+- La edición de enero de 2025 del archivo de Damodaran no está publicada en su archivo histórico (respuesta HTTP 404 al 26/09/2026); para 2025 se usa la última edición disponible (enero de 2024). Queda registrado en log_ejecucion.txt y en incidencias_fuente.md.
 - La edición 2018 de Damodaran rotula la columna de industrias con una errata de la fuente («Induistry Name»); el script 02 la reconoce igual.
 - Damodaran publica el EV/EBITDA en dos grupos («Only positive EBITDA firms» y «All firms»). Se usa el grupo de empresas con EBITDA positivo, porque Southern Copper tiene EBITDA positivo en todo el periodo.
 - Para el P/E del sector se usa el múltiplo agregado de Damodaran («Aggregate Mkt Cap/ Net Income (all firms)»), comparable con el P/E de Southern Copper (capitalización ÷ utilidad).
